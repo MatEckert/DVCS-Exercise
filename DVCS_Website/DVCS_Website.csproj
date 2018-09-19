@@ -177,6 +177,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Examples\HtmlPage1.html" />
+    <Content Include="Examples\JavaScript.js" />
     <Content Include="Examples\WebForm1.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
