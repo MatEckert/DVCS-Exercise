@@ -15,4 +15,15 @@ Short Answer:
 	2. under file.
 	3. under repository
 	4. changes, history, repository list, branch list.
-	5. 
+	5. you can edit the remote repository location and the .gitignore.
+	6. 3
+	7. 1
+	8. 3
+	9. 2
+	10. 1
+	11. 1
+	12. 4
+	13. 2
+	14. 2
+	15. 1
+	16. 3
